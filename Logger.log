@@ -238,3 +238,163 @@
 </message>
 </record>
 </log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-24T19:00:52</date>
+  <millis>1598288452712</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Inizio calcolo dei bug risolti per mese 
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:01:05</date>
+  <millis>1598288465313</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Calcolo dei bug risolti per mese completato con successo 
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:01:05</date>
+  <millis>1598288465313</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>E' stato creato con successo il relativo file csv : Accumulo.csv
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:01:05</date>
+  <millis>1598288465314</millis>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Calcolo dei commit per mese completato con successo 
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:01:05</date>
+  <millis>1598288465315</millis>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>E' stato creato con successo il relativo file csv : AccumuloCommits.csv
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-24T19:20:55</date>
+  <millis>1598289655650</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Inizio calcolo dei bug risolti per mese 
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-24T19:23:09</date>
+  <millis>1598289789897</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Inizio calcolo dei bug risolti per mese 
+</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-24T19:23:40</date>
+  <millis>1598289820417</millis>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Inizio calcolo dei bug risolti per mese 
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:23:52</date>
+  <millis>1598289832980</millis>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Calcolo dei bug risolti per mese completato con successo 
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:23:52</date>
+  <millis>1598289832981</millis>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>E' stato creato con successo il relativo file csv : Accumulo.csv
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:23:52</date>
+  <millis>1598289832982</millis>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Calcolo dei commit per mese completato con successo 
+</message>
+</record>
+<record>
+  <date>2020-08-24T19:23:52</date>
+  <millis>1598289832982</millis>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logic.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>E' stato creato con successo il relativo file csv : AccumuloCommits.csv
+</message>
+</record>
+</log>
