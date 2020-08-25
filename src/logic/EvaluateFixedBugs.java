@@ -18,6 +18,8 @@ import org.json.JSONException;
 
 import com.opencsv.CSVWriter;
 
+import entity.GraphMonth;
+
 public final class EvaluateFixedBugs {
 	
 	private static int ticketWithoutCommit = 0;
